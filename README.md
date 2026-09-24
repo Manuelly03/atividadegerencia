@@ -5,7 +5,6 @@ Projeto desenvolvido como desafio de portfólio (Frontend Mentor).
 ## 🔗 Links
 
 - Desafio original: https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
-- Deploy (GitHub Pages): _adicionar link aqui_
 
 ## 🚀 Tecnologias
 
@@ -14,10 +13,7 @@ Projeto desenvolvido como desafio de portfólio (Frontend Mentor).
 
 ## 👥 Autores
 
-- Nome 1
-- Nome 2
-- Nome 3
+- Manuelly Fernandes Pinheiro 
+- Dheroly Gomes 
 
-## 📸 Preview
 
-_adicionar screenshot aqui_

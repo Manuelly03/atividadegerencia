@@ -1,4 +1,4 @@
-/* ===== Reset básico ===== */
+
 * {
   margin: 0;
   padding: 0;
@@ -16,7 +16,7 @@ body {
   padding: 20px;
 }
 
-/* ===== Card ===== */
+
 .card {
   background-color: hsl(328, 40%, 18%);
   border-radius: 15px;
@@ -26,7 +26,7 @@ body {
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
 }
 
-/* ===== Imagem + hover ===== */
+
 .image-wrapper {
   position: relative;
   border-radius: 8px;
@@ -72,7 +72,7 @@ body {
   opacity: 1;
 }
 
-/* ===== Título ===== */
+
 .title {
   margin-top: 24px;
   font-size: 22px;
@@ -85,14 +85,14 @@ body {
   color: hsl(330, 100%, 70%);
 }
 
-/* ===== Descrição ===== */
+
 .description {
   margin-top: 12px;
   font-size: 15px;
   line-height: 1.6;
 }
 
-/* ===== Preço e tempo ===== */
+
 .info-row {
   display: flex;
   justify-content: space-between;
@@ -113,14 +113,14 @@ body {
   font-weight: 600;
 }
 
-/* ===== Divisor ===== */
+
 .divider {
   border: none;
   border-top: 1px solid hsl(330, 25%, 30%);
   margin: 20px 0 16px;
 }
 
-/* ===== Criador ===== */
+
 .creator-row {
   display: flex;
   align-items: center;
@@ -144,7 +144,7 @@ body {
   cursor: pointer;
 }
 
-/* ===== Responsivo Mobile ===== */
+
 @media (max-width: 400px) {
   .card {
     padding: 16px;
