@@ -1,3 +1,4 @@
+
 # NFT Preview Card Component
 
 Projeto desenvolvido como desafio de portfólio (Frontend Mentor).
@@ -16,4 +17,6 @@ Projeto desenvolvido como desafio de portfólio (Frontend Mentor).
 - Manuelly Fernandes Pinheiro 
 - Dheroly Gomes 
 
+
+# atividadegerencia
 
